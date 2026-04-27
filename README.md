@@ -29,14 +29,14 @@ This repository documents my 84-day intensive program to build production-ready 
 -------------------------------------------------------------------------------------------------------
  Project Structure
 
-python-excel-automation-roadmap/
-├── Phase1_Python_Foundations/          (Days 1-20)
-├── Phase2_Advanced_Excel_Pandas/       (Days 21-35)
-├── Phase3_Data_Cleaning_Visualization/ (Days 36-50)
-├── Phase4_Excel_Python_Integration/    (Days 51-65)
-├── Phase5_Web_Scraping/                (Days 66-72)
-├── Phase6_GUI_Development/             (Days 73-77)
-├── Phase7_Portfolio_Projects/          (Days 78-84)
+python-excel-automation-roadmap
+├── Phase1_Python_Foundations            (Days 1-20)
+├── Phase2_Advanced_Excel_Pandas        (Days 21-35)
+├── Phase3_Data_Cleaning_Visualization  (Days 36-50)
+├── Phase4_Excel_Python_Integration     (Days 51-65)
+├── Phase5_Web_Scraping                 (Days 66-72)
+├── Phase6_GUI_Development              (Days 73-77)
+├── Phase7_Portfolio_Projects           (Days 78-84)
 │   ├── Financial_Dashboard/
 │   ├── Expense_Tracker/
 │   └── Excel_Data_Processor_GUI/
