@@ -157,10 +157,10 @@ Each day includes:
 
 --------------------------------------------------------------------------------------------------------
 
-## 🤝 About
+## 🤝 About  
 
 **Created by:** Bhanu Pratap Singh  
-**BBA Aspirant** | Python + Excel Automation Learner | Finance Enthusiast  
+**BBA Aspirant | Python + Excel Automation Learner | Finance Enthusiast** 
 **Location:** Bhopal, Madhya Pradesh, India
 
 **Career Goal:** Secure technical internships in financial data automation, eventually transition to roles in investment analytics or quantitative finance.
@@ -206,11 +206,11 @@ Each day includes:
 ## 📞 Contact
 
 - **GitHub:** [@bhanupratap05683-netizen](https://github.com/bhanupratap05683-netizen)
-- LinkedIn:** Coming May 20, 2026
-- Email:** [Your email here]
+- **LinkedIn:** Coming May 20, 2026
+- **Email:** [Your email here]
 
 --------------------------------------------------------------------------------------------------------
 
-.Last Updated:** April 27, 2026  
-.Current Phase:** Phase 2 (Advanced Excel + pandas)  
-.Days Completed:** 24 / 84
+.**Last Updated:** April 27, 2026  
+.**Current Phase:** Phase 2 (Advanced Excel + pandas)  
+.**Days Completed:** 24 / 84
