@@ -89,18 +89,17 @@ This repository documents my 84-day intensive program to build production-ready 
 -------------------------------------------------------------------------------------------------------
 
 ## 💻 Technologies & Tools
-
-| Category                    |                             Tools |
--------------------------------------------------------------------
-| **Programming**                                   | Python 3.9+ |
-| **Excel Automation**           | openpyxl, xlwings, Power Query |
-| **Data Analysis**                               | pandas, NumPy |
-| **Visualization**                         | matplotlib, seaborn |
-| **Web Scraping**            | Selenium, BeautifulSoup, requests |
-| **GUI**                                               | tkinter |
-| **APIs**               | requests, Alpha Vantage, Yahoo Finance |
-| **Version Control**                               | Git, GitHub |
-| **IDE**                             | VS Code, Jupyter Notebook |
+| Category | Tools |
+| :--- | :--- |
+| **Programming** | Python 3.9+ |
+| **Excel Automation** | openpyxl, xlwings, Power Query |
+| **Data Analysis** | pandas, NumPy |
+| **Visualization** | matplotlib, seaborn |
+| **Web Scraping** | Selenium, BeautifulSoup, requests |
+| **GUI** | tkinter |
+| **APIs** | requests, Alpha Vantage, Yahoo Finance |
+| **Version Control** | Git, GitHub |
+| **IDE** | VS Code, Jupyter Notebook |
 
 --------------------------------------------------------------------------------------------------------
 
