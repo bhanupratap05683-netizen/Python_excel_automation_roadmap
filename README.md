@@ -207,7 +207,7 @@ Each day includes:
 
 - **GitHub:** [@bhanupratap05683-netizen](https://github.com/bhanupratap05683-netizen)
 - **LinkedIn:** Coming May 20, 2026
-- **Email:** [Your email here]
+- **Email:** [bhanupratap@05683gmail.com]
 
 --------------------------------------------------------------------------------------------------------
 
