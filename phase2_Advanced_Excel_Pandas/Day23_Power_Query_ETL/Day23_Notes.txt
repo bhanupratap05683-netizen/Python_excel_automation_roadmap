@@ -1,0 +1,36 @@
+DAY 23: EXCEL POWER QUERY - ETL BASICS
+======================================
+
+Date: April 27, 2026
+Time Spent: 3.5 hours
+
+TOPICS COVERED:
+✓ What is ETL (Extract, Transform, Load)
+✓ Power Query basics
+✓ Data transformation steps
+✓ Handling missing values
+✓ Filtering data
+✓ Refresh functionality
+
+FILES CREATED:
+- day23_raw_sales.xlsx (messy raw data)
+- day23_power_query_clean.xlsx (cleaned output)
+
+KEY CONCEPTS:
+1. Power Query is Excel's ETL engine
+2. Transformations are remembered and repeatable
+3. Refresh button applies all steps automatically
+4. Real-world use: Finance teams use this for data pipelines
+
+TASKS COMPLETED:
+✓ Created messy sales data
+✓ Cleaned column names (capitalization)
+✓ Standardized region names
+✓ Fixed status field inconsistencies
+✓ Handled missing values (Amount, Sales Rep)
+✓ Filtered out cancelled orders
+✓ Tested refresh with new data
+
+NEXT STEPS:
+- Tomorrow (Day 24): Excel Financial Functions (NPV, IRR, PMT)
+- Week 5: Start pandas (Python's data transformation equivalent)
